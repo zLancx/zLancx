@@ -24,7 +24,7 @@ usually not up for hiring/commissions but if INTERESTED feel free to contact.
 ![Java](https://img.shields.io/badge/Code-Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/Code-Lua-%232C2D72.svg?logo=lua&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Data-SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/Data-Postgres-%23316192.svg?logo=postgresql&logoColor=white)]
+![Postgres](https://img.shields.io/badge/Data-Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![YAML](https://img.shields.io/badge/Data-YAML-CB171E?logo=yaml&logoColor=fff)
 ![JSON](https://img.shields.io/badge/Data-JSON-000?logo=json&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/Data-MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
