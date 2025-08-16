@@ -7,6 +7,10 @@ usually not up for hiring/commissions but if INTERESTED feel free to contact.
 
 ![zLancx's GitHub stats](https://github-readme-stats.vercel.app/api?username=zLancx&show_icons=true&theme=dark#gh-dark-mode-only)
 
-![Windows](https://custom-icon-badges.demolab.com/badge/OS-Windows-0078D6?logo=windows11&logoColor=white) ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+![Windows](https://custom-icon-badges.demolab.com/badge/OS-Windows-0078D6?logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+![Alpine Linux](https://img.shields.io/badge/OS-Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)
 
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=fff)
+
