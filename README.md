@@ -27,3 +27,5 @@ usually not up for hiring/commissions but if INTERESTED feel free to contact.
 ![YAML](https://img.shields.io/badge/Data-YAML-CB171E?logo=yaml&logoColor=fff)
 ![JSON](https://img.shields.io/badge/Data-JSON-000?logo=json&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/Data-MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/Data-MySQL-4479A1?logo=mysql&logoColor=fff)
+![Unity](https://img.shields.io/badge/Engines-Unity-%23000000.svg?logo=unity&logoColor=white)
