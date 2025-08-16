@@ -13,6 +13,6 @@ usually not up for hiring/commissions but if INTERESTED feel free to contact.
 ![Alpine Linux](https://img.shields.io/badge/OS-Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)
 
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=fff)
-![C#](https://custom-icon-badges.demolab.com/badge/Code-C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![C](https://img.shields.io/badge/Code-C-00599C?logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/Code-HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![Code-C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![Code-C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Code-HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
