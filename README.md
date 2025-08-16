@@ -7,4 +7,4 @@ usually not up for hiring/commissions but if INTERESTED feel free to contact.
 
 ![zLancx's GitHub stats](https://github-readme-stats.vercel.app/api?username=zLancx&show_icons=true&theme=dark#gh-dark-mode-only)
 
-![Neovim](https://img.shields.io/badge/OS-Neovim-57A143?logo=neovim&logoColor=fff)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=fff)
