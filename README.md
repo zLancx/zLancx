@@ -11,7 +11,6 @@ usually not up for hiring/commissions but if INTERESTED feel free to contact.
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![Alpine Linux](https://img.shields.io/badge/OS-Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)
-
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=fff)
 ![Code-C#](https://custom-icon-badges.demolab.com/badge/Code-C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![Code-C](https://img.shields.io/badge/Code-C-00599C?logo=c&logoColor=white)
@@ -29,3 +28,6 @@ usually not up for hiring/commissions but if INTERESTED feel free to contact.
 ![MongoDB](https://img.shields.io/badge/Data-MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Data-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Unity](https://img.shields.io/badge/Engines-Unity-%23000000.svg?logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-%23121011.svg?logo=github&logoColor=white)
+![Bun](https://img.shields.io/badge/ToolsBun-000?logo=bun&logoColor=fff)
